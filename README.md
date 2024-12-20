@@ -21,8 +21,7 @@ A Java-based cafe management system designed to streamline daily operations of a
 ## Prerequisites
 
 - Java JDK 8 or higher
-- Database server (if applicable)
-- Any additional dependencies
+- MySQL 
 
 ## Installation
 
